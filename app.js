@@ -17,7 +17,7 @@ const colors = [
     'yellow',
 ];
 const colorsLength = colors.length;
-let body = document.body;
+const body = document.body;
 
 // Handler
 const changeBackgroundColor = () => {
